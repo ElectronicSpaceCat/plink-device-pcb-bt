@@ -1,3 +1,3 @@
-# plink-device-pcbs
+# Primary board
 
-The primary pcb which has the bluetooth module (where the firmware resides).
+The primary pcb has the bluetooth module (where the firmware resides).
